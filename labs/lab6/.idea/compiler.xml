@@ -8,7 +8,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-jdbc" />
         <module name="spring-jpa" />
-        <module name="spring-gumball" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

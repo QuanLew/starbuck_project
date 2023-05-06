@@ -5,10 +5,8 @@ import lombok.RequiredArgsConstructor;
 
 @Data
 @RequiredArgsConstructor
-class GumballModel {
-
+public class GumballModel {
     private String modelNumber ;
     private String serialNumber ;
     private Integer countGumballs ;
-    
 }

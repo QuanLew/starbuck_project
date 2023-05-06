@@ -5,50 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c80440b-9ba3-47b8-b85a-5239b7393c39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../gitpod/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../gitpod/.idea/gitpod.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../gitpod/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../gitpod/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../gitpod/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/lab7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-payments/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-payments/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-payments/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-payments/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-payments/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-payments/docker-compose.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-payments/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-payments/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-payments/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-payments/src/main/java/com/example/springcybersource/AuthRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-payments/src/main/java/com/example/springcybersource/AuthResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-payments/src/main/java/com/example/springcybersource/CaptureRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-payments/src/main/java/com/example/springcybersource/CaptureResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-payments/src/main/java/com/example/springcybersource/CyberSourceAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-payments/src/main/java/com/example/springcybersource/Payload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-payments/src/main/java/com/example/springcybersource/RefundRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-payments/src/main/java/com/example/springcybersource/RefundResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-payments/src/main/java/com/example/springpayments/PaymentsCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-payments/src/main/java/com/example/springpayments/PaymentsCommandRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-payments/src/main/java/com/example/springpayments/PaymentsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-payments/src/main/java/com/example/springpayments/SpringPaymentsApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-payments/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-payments/src/main/resources/static/images/creditcards.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-payments/src/main/resources/static/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-payments/src/main/resources/templates/creditcards.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-payments/src/test/java/com/example/springpayments/SpringPaymentsApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Mysql_JPA/demo-jpa/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mysql_JPA/demo-jpa/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Mysql_JPA/demo-jpa/src/main/java/com/example/demojpa/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mysql_JPA/demo-jpa/src/main/java/com/example/demojpa/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Mysql_JPA/demo-jpa2/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mysql_JPA/demo-jpa2/Makefile" afterDir="false" />
@@ -110,7 +66,6 @@
       <change beforePath="$PROJECT_DIR$/../lab6/spring-gumball/src/main/resources/templates/gumball.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/spring-gumball/src/main/resources/templates/gumball.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lab6/spring-jpa/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/spring-jpa/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lab6/spring-jpa/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/spring-jpa/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../midterm/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../midterm_lab/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../midterm_lab/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../midterm_lab/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../midterm_lab/.idea/modules.xml" afterDir="false" />
@@ -168,6 +123,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -185,7 +141,7 @@
       <option name="presentableId" value="Default" />
       <updated>1683219294913</updated>
       <workItem from="1683219296153" duration="7000" />
-      <workItem from="1683220846521" duration="1850000" />
+      <workItem from="1683220846521" duration="2308000" />
     </task>
     <servers />
   </component>

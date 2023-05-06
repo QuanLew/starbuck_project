@@ -1,4 +1,4 @@
-package com.example.gumballmachine ;
+package com.example.gumballmachine;
 
 import java.util.Random;
 

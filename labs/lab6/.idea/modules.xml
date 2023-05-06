@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/lab6.iml" filepath="$PROJECT_DIR$/.idea/lab6.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-gumball-v3.0/spring-gumball.iml" filepath="$PROJECT_DIR$/spring-gumball-v3.0/spring-gumball.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-jdbc/spring-jdbc.iml" filepath="$PROJECT_DIR$/spring-jdbc/spring-jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-jpa/spring-jpa.iml" filepath="$PROJECT_DIR$/spring-jpa/spring-jpa.iml" />
     </modules>

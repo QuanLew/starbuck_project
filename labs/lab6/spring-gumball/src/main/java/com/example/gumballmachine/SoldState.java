@@ -1,4 +1,4 @@
-package com.example.gumballmachine ;
+package com.example.gumballmachine;
 
 public class SoldState implements State {
  
@@ -22,7 +22,7 @@ public class SoldState implements State {
  
 	public void dispense() {
 		gumballMachine.releaseBall();
-		if (true) {
+		if (gumballMachine.getCount() > 0) {
 			gumballMachine.setState(gumballMachine.getNoQuarterState());
 		} else {
 			System.out.println("Oops, out of gumballs!");
