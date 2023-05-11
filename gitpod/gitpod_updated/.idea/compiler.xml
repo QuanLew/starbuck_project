@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-jpa" />
+        <module name="spring-gumball (2)" />
+        <module name="spring-mvc" />
+        <module name="spring-gumball (4)" />
+        <module name="spring-rabbitmq" />
+        <module name="spring-rest (1)" />
+        <module name="spring-gumball (6)" />
+        <module name="spring-rest" />
+        <module name="spring-gumball (8)" />
+        <module name="spring-starbucks-api (1)" />
+        <module name="spring-rabbitmq-workers" />
+        <module name="spring-scheduler" />
+        <module name="spring-security (1)" />
+        <module name="spring-payments (2)" />
+        <module name="spring-login" />
+        <module name="spring-websocket" />
+        <module name="spring-cashier" />
+        <module name="demo-intellij" />
+        <module name="spring-gumball (1)" />
+        <module name="demo-initializr" />
+        <module name="spring-rest (2)" />
+        <module name="spring-gumball (3)" />
+        <module name="spring-mysql" />
+        <module name="spring-gumball (5)" />
+        <module name="spring-rest-level3" />
+        <module name="spring-rabbitmq-helloworld" />
+        <module name="spring-gumball (7)" />
+        <module name="spring-starbucks-client" />
+        <module name="spring-rest-level2" />
+        <module name="spring-starbucks-client (1)" />
+        <module name="spring-reqres-client" />
+        <module name="spring-demo" />
+        <module name="spring-jdbc" />
+        <module name="spring-payments (1)" />
+        <module name="spring-security" />
+        <module name="spring-payments" />
+        <module name="spring-starbucks-api" />
+        <module name="spring-gumball" />
+        <module name="spring-payments (3)" />
+        <module name="spring-gumball-worker" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-demo" options="-parameters" />
+      <module name="spring-jdbc" options="-parameters" />
+      <module name="spring-jpa" options="-parameters" />
+      <module name="spring-mvc" options="-parameters" />
+    </option>
+  </component>
+</project>

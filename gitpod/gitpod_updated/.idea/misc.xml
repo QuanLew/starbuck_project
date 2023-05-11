@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/gitpod/spring-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/spring-mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/spring-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/spring-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/spring-login/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/spring-mysql/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/demo-intellij/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/spring-gumball/spring-gumball-v1.0/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/spring-gumball/spring-gumball-v2.0/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/spring-gumball/spring-gumball-v2.1/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/spring-gumball/spring-gumball-v3.0/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/spring-gumball/spring-gumball-v3.1/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/spring-gumball/spring-gumball-v3.2/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/spring-gumball/spring-gumball-v3.3/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/spring-gumball/spring-gumball-v3.4/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/spring-gumball/spring-gumball-v3.5/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/spring-gumball/spring-gumball-worker/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/demo-initializr/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/spring-payments/spring-payments-v1.0/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/spring-payments/spring-payments-v1.1/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/spring-payments/spring-payments-v1.2/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/spring-payments/spring-payments-v2.0/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/spring-rabbitmq/spring-rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/spring-rabbitmq/spring-rabbitmq-workers/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/spring-rabbitmq/spring-rabbitmq-helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/spring-rest-api/spring-rest-v1.0/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/spring-rest-api/spring-rest-v2.0/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/spring-rest-api/spring-rest-v3.0/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/spring-rest-api/spring-rest-level2/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/spring-rest-api/spring-rest-level3/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/spring-security/spring-security-2.7.5/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/spring-security/spring-security-2.7.9/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/spring-scheduler/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/spring-websocket/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/starbucks-mobile/v2_spring_api/backend/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/starbucks-mobile/v2_spring_api/apiclient/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/starbucks-project/starbucks-api/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/starbucks-project/spring-cashier/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/starbucks-project/starbucks-client/pom.xml" />
+        <option value="$PROJECT_DIR$/gitpod/spring-reqres-client/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="openjdk-20" project-jdk-type="JavaSDK" />
+</project>

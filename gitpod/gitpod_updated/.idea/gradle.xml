@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/gitpod/starbucks-mobile/v1_go_api/mobileapp" />
+        <option name="gradleJvm" value="corretto-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/gitpod/starbucks-mobile/v1_go_api/mobileapp" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/gitpod/starbucks-mobile/v2_spring_api/mobileapp" />
+        <option name="gradleJvm" value="corretto-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/gitpod/starbucks-mobile/v2_spring_api/mobileapp" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/gitpod/starbucks-project/starbucks-app" />
+        <option name="gradleJvm" value="corretto-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/gitpod/starbucks-project/starbucks-app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
